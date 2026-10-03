@@ -98,6 +98,6 @@ Heart-Disease-PowerBI-Dashboard/
 - The dashboard shows counts and shares, so it describes the data but does not prove cause and effect
 - Missing values were labeled or filled, which can slightly affect the Unknown category and the age average
 
-**Wasim Akram**
+**
 GitHub: [akramwasim-in](https://github.com/akramwasim-in)
 LinkedIn: [akramwasim-in](https://linkedin.com/in/akramwasim-in)
